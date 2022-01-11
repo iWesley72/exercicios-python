@@ -1,5 +1,3 @@
-from typing import Container
-
 
 gabarito = 'abcdeedcba'
 respostas = ''

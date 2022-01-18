@@ -19,7 +19,7 @@ def retornarMesExtenso(data):
         print('Data inválida!')
         return
     else:
-        print(f'{dia} de {meses.get(mes)} {ano}')
+        print(f'{dia} de {meses.get(mes)} de {ano}')
         return
 
 retornarMesExtenso('01/01/2003') 
